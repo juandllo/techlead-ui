@@ -18,11 +18,6 @@ class NavBarClass extends React.Component {
                 "prefix": "apps",
                 "translateKey": "navbar.apps",
                 "to": "/"
-            },{
-                "id": "deploy",
-                "prefix": "deploy",
-                "translateKey": "navbar.deploys",
-                "to": "/deploys"
             }],
             menuSelected: "apps"
         };
