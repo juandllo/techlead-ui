@@ -1,0 +1,20 @@
+{
+    "app.name":"Administrador Despliegues",
+    "lang":"Idioma",
+    "deploys.title":"Despligues",
+    "develops.title":"Desarrolladores",
+    "calendar.title":"Calendario",
+    "home.welcome":"Bienvenido a TechLead",
+    "notfound.message":"404 Página no encontrada",
+    "navbar.apps":"Apps",
+    "navbar.deploys":"Despliegues",
+    "navbar.calendar":"Calendario",
+    "navbar.action1":"Acción 1",
+    "navbar.action2":"Acción 2",
+    "navbar.action3":"Acción 3",
+    "navbar.action4":"Acción 4",
+    "navbar.more":"Más...",
+    "navbar.manage":"Administrar",
+    "navbar.logout":"Salir",
+    "under.construction":"En Construcción..."
+}
